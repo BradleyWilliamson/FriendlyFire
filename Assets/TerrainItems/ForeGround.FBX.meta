@@ -1,0 +1,264 @@
+fileFormatVersion: 2
+guid: a897b7fba790b77468fed3665f0286a6
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Cylinder
+    100002: Cylinder.002
+    100004: Cylinder.003
+    100006: Cylinder.004
+    100008: Cylinder.005
+    100010: Cylinder001
+    100012: Cylinder003
+    100014: Cylinder004
+    100016: Cylinder005
+    100018: Cylinder006
+    100020: Icosphere.006
+    100022: Icosphere.007
+    100024: Icosphere.008
+    100026: Icosphere.009
+    100028: LowPoly Tree 01.001
+    100030: LowPoly Tree 01.002
+    100032: LowPoly Tree 01.003
+    100034: LowPolyRock.002
+    100036: LowPolyRock.004
+    100038: LowPolyRock.005
+    100040: LowPolyRock.006
+    100042: LowPolyRock.007
+    100044: LowPolyRock.008
+    100046: LowPolyRock.010
+    100048: LowPolyRock.011
+    100050: LowPolyRock.012
+    100052: LowPolyRock.013
+    100054: LowPolyRock.014
+    100056: LowPolyRock.015
+    100058: LowPolyRock.016
+    100060: Plane001
+    100062: Plane002
+    100064: Plane003
+    100066: //RootNode
+    400000: Cylinder
+    400002: Cylinder.002
+    400004: Cylinder.003
+    400006: Cylinder.004
+    400008: Cylinder.005
+    400010: Cylinder001
+    400012: Cylinder003
+    400014: Cylinder004
+    400016: Cylinder005
+    400018: Cylinder006
+    400020: Icosphere.006
+    400022: Icosphere.007
+    400024: Icosphere.008
+    400026: Icosphere.009
+    400028: LowPoly Tree 01.001
+    400030: LowPoly Tree 01.002
+    400032: LowPoly Tree 01.003
+    400034: LowPolyRock.002
+    400036: LowPolyRock.004
+    400038: LowPolyRock.005
+    400040: LowPolyRock.006
+    400042: LowPolyRock.007
+    400044: LowPolyRock.008
+    400046: LowPolyRock.010
+    400048: LowPolyRock.011
+    400050: LowPolyRock.012
+    400052: LowPolyRock.013
+    400054: LowPolyRock.014
+    400056: LowPolyRock.015
+    400058: LowPolyRock.016
+    400060: Plane001
+    400062: Plane002
+    400064: Plane003
+    400066: //RootNode
+    2100000: No Name
+    2100002: Material.001
+    2100004: Material.004
+    2100006: Material.005
+    2100008: Material.006
+    2100010: Material.008
+    2100012: Material.007
+    2100014: Material.002
+    2100016: Material.003
+    2300000: Cylinder
+    2300002: Cylinder.002
+    2300004: Cylinder.003
+    2300006: Cylinder.004
+    2300008: Cylinder.005
+    2300010: Cylinder001
+    2300012: Cylinder003
+    2300014: Cylinder004
+    2300016: Cylinder005
+    2300018: Cylinder006
+    2300020: Icosphere.006
+    2300022: Icosphere.007
+    2300024: Icosphere.008
+    2300026: Icosphere.009
+    2300028: LowPoly Tree 01.001
+    2300030: LowPoly Tree 01.002
+    2300032: LowPoly Tree 01.003
+    2300034: LowPolyRock.002
+    2300036: LowPolyRock.004
+    2300038: LowPolyRock.005
+    2300040: LowPolyRock.006
+    2300042: LowPolyRock.007
+    2300044: LowPolyRock.008
+    2300046: LowPolyRock.010
+    2300048: LowPolyRock.011
+    2300050: LowPolyRock.012
+    2300052: LowPolyRock.013
+    2300054: LowPolyRock.014
+    2300056: LowPolyRock.015
+    2300058: LowPolyRock.016
+    2300060: Plane001
+    2300062: Plane002
+    2300064: Plane003
+    3300000: Cylinder
+    3300002: Cylinder.002
+    3300004: Cylinder.003
+    3300006: Cylinder.004
+    3300008: Cylinder.005
+    3300010: Cylinder001
+    3300012: Cylinder003
+    3300014: Cylinder004
+    3300016: Cylinder005
+    3300018: Cylinder006
+    3300020: Icosphere.006
+    3300022: Icosphere.007
+    3300024: Icosphere.008
+    3300026: Icosphere.009
+    3300028: LowPoly Tree 01.001
+    3300030: LowPoly Tree 01.002
+    3300032: LowPoly Tree 01.003
+    3300034: LowPolyRock.002
+    3300036: LowPolyRock.004
+    3300038: LowPolyRock.005
+    3300040: LowPolyRock.006
+    3300042: LowPolyRock.007
+    3300044: LowPolyRock.008
+    3300046: LowPolyRock.010
+    3300048: LowPolyRock.011
+    3300050: LowPolyRock.012
+    3300052: LowPolyRock.013
+    3300054: LowPolyRock.014
+    3300056: LowPolyRock.015
+    3300058: LowPolyRock.016
+    3300060: Plane001
+    3300062: Plane002
+    3300064: Plane003
+    4300000: Plane001
+    4300002: Plane002
+    4300004: Plane003
+    4300006: LowPoly Tree 01.001
+    4300008: LowPoly Tree 01.002
+    4300010: Icosphere.007
+    4300012: Icosphere.006
+    4300014: Cylinder.003
+    4300016: LowPoly Tree 01.003
+    4300018: Cylinder001
+    4300020: Cylinder.002
+    4300022: Cylinder.004
+    4300024: Icosphere.008
+    4300026: Icosphere.009
+    4300028: Cylinder.005
+    4300030: LowPolyRock.002
+    4300032: Cylinder
+    4300034: LowPolyRock.004
+    4300036: LowPolyRock.005
+    4300038: LowPolyRock.006
+    4300040: LowPolyRock.007
+    4300042: LowPolyRock.008
+    4300044: LowPolyRock.010
+    4300046: LowPolyRock.011
+    4300048: LowPolyRock.012
+    4300050: LowPolyRock.013
+    4300052: Cylinder003
+    4300054: Cylinder004
+    4300056: LowPolyRock.014
+    4300058: LowPolyRock.015
+    4300060: Cylinder005
+    4300062: Cylinder006
+    4300064: LowPolyRock.016
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
